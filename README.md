@@ -59,6 +59,8 @@ printf("\nThe Physical Address is -- %d",pa);
 
 ## OUTPUT:
 
+![9.1.pmg]{}
+
 ## RESULT:
 
 Thus the implementation of paging technique for memory management is executed successfully. 
