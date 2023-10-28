@@ -59,7 +59,7 @@ printf("\nThe Physical Address is -- %d",pa);
 
 ## OUTPUT:
 
-![9.1.png]()
+![](9.1.png)
 
 ## RESULT:
 
